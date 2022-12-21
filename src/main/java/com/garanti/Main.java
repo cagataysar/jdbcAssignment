@@ -31,9 +31,9 @@ public class Main {
 
 
 
-       /* DersDTORepo dersDTO = new DersDTORepo();
+        DersDTORepo dersDTO = new DersDTORepo();
         ArrayList<DersDTO> dtolar = dersDTO.getALl();
-        System.err.println(dtolar.toString());*/
+        System.err.println(dtolar.toString());
 
         /*DersRepo ders = new DersRepo();
         ArrayList< Ders > dersler = ders.getALl();
